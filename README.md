@@ -1,2 +1,2 @@
-# Boliqueso204.github.io
-Para probar las paginas del sitio web de marketing digital
+# Proyecto-Web-2-
+Este proyecto tiene un sitio web de marketing con dos paginas.
